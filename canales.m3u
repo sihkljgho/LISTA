@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW - en vivo (Español)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663306941/ei/XbgjY4XIGM-hhwbzvKt4/ip/2800%3Ae2%3Aab80%3A3ba%3Aa837%3A4a77%3Aaf80%3Ac231/id/RTjbYKBB828.5/source/yt_live_broadcast/requiressl/yes/tx/24268155/txs/24268153%2C24268154%2C24268155/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgR6CniJL_JQFaN9iwSEQBLdjtSJ2_zCJzamTFalLgY9wCIQDMqqqcKE_H0KOx5OkdBWJD_lXxP0KNjGGAJdF-s_2VRg%3D%3D/file/index.m3u8
